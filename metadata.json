@@ -1,0 +1,6 @@
+{
+  "name": "Caliber — Adaptive Interview Coach",
+  "description": "An adaptive, rubric-backed mock interview studio calibrated to your target role, seniority level, and company culture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
